@@ -38,6 +38,12 @@ The IIT Bombay English-Hindi Parallel Corpus used by Kunchukuttan et al. (2018) 
 | Philip et al. (2020) | 21.20 | Revisiting Low Resource Status of Indian Languages in MT | [ilmulti](https://github.com/jerinphilip/ilmulti) | 
 | Saini et al. (2018) | 18.215| [Neural Machine Translation for English to Hindi](https://www.researchgate.net/publication/327717152_Neural_Machine_Translation_for_English_to_Hindi) | | 
 
+## Hindi Dialogue Corpus
+
+| Model         | Domain | Paper / Source | Repository | 
+| ------------- | --- | --- | --- | 
+| S.Malviya et al. (2021) | Restaurant  | [IEEE/ACM Transactions on Audio, Speech, and Language Processing](https://ieeexplore.ieee.org/document/9376978) | [Github](https://github.com/skmalviya/HDRS-Corpus)|
+
 ## G2P Conversion
 
 ### Schwa Deletion
